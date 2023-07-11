@@ -24,3 +24,11 @@
 | Go back to session        | `tmux a -t session_name`       |
 | Create a session          | `tmux new -s "session_name"`   |
 | Kill a session            | `tmux kill-session -t session_name` |
+
+
+
+to load the config file manually 
+
+[0] tmux
+
+[1] tmux source-file ~/.tmux.config
