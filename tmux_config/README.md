@@ -1,7 +1,9 @@
 
 [0] close all tmux sessions
 
-[1] touch .tmux.config in user home directory
+[1] touch .tmux.conf in user home directory
+
+[2] git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 [2] tmux
 
