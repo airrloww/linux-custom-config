@@ -9,4 +9,4 @@
 
 source ~/.bash_prompt
 
-![Alt text](/screenshot.png?raw=true "screenshot")
+![screenshot](https://github.com/airrloww/linux-custom-config/blob/main/bash_prompt/screenshot.png?raw=true)
