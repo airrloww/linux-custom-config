@@ -8,3 +8,5 @@
 [3] add this line to the end of the file:
 
 source ~/.bash_prompt
+
+![Alt text](/screenshot.png?raw=true "screenshot")
